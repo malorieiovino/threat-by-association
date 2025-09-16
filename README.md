@@ -22,9 +22,7 @@ This work highlights how journalism functions as a form of linguistic border con
 ```plaintext
 docs/
   ├── threat_by_association.pdf        # Final paper
-  ├── amli_threat_by_association_slides.pptx  # Conference slides
-  └── drafts/
-      └── AMLI Draft (9).pdf           # Earlier draft
+  └── amli_threat_by_association_slides.pptx  # Conference slides
 
 scripts/
   ├── cnn_corpus.py
@@ -32,8 +30,8 @@ scripts/
   └── evaluation.py
 
 data/
-  ├── sample_corpus.csv (optional)
-  └── processed/ (shareable processed data)
+  ├── cnn_guardian_corpus.csv
+  └── supplementary.csv
 
 figures/
   ├── collocation_plot.png
