@@ -159,4 +159,16 @@ Right-wing outlets (Fox, Daily Mail) stack descriptors—“illegal alien,” �
 **Summary:**  
 CDA reveals how language does more than describe — it sorts humans into hierarchies of worth. Palestinians are framed as perpetual victims, Latinos as criminal problems, and Ukrainians as legitimate victims and actors. These patterns reflect **racial proximity, religion, and geopolitical alignment**, proving that journalistic “objectivity” often reproduces systems of inequality.  
 
+--- 
+
+This project demonstrates how computational and critical approaches can be combined to expose systematic inequalities in media discourse.  
+By analyzing over 1,700 articles (2021–2025), the study shows how displaced populations are discursively sorted into hierarchies of deservingness based on race, religion, and geopolitical alignment.  
+The findings highlight how even neutral-sounding journalistic language actively constructs borders of inclusion and exclusion.  
+
+--- 
+
+## Acknowledgments  
+
+This research was prepared for the **AMLI 2025 Conference** at Liverpool Hope University.  
+Special thanks to the mentors, colleagues, and the open-source NLP community (spaCy, AntConc, GDELT, Guardian Open Platform) for the tools that made this work possible.  
 
