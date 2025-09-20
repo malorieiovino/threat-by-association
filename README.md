@@ -46,11 +46,17 @@ scripts/
 
 data/
   ├── cnn_guardian_corpus.csv
-  └── supplementary.csv
+  └── partisan_data.csv
 
 figures/
-  ├── collocation_plot.png
-  └── agency_analysis.png
+  ├── collocation_analysis.png
+  ├── adjective_verb_analysis.png
+  ├── criminal_index.png
+  ├── status_distribution.png
+  ├── lexical_analysis_comprehensive.png
+  ├── sentiment_analysis.png
+  ├── temporal_analysis.png
+  └── transitivity_analysis.png
 ```
 ## Methods
 - **Corpus Construction:**
