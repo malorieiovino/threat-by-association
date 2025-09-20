@@ -123,6 +123,9 @@ This plot shows the trade-off between sympathetic descriptors (humanization) and
 | **New York Times** | Israel Strike Kills Al Jazeera Journalists, Network Says | *The Israeli military…said that it had targeted “the terrorist Anas al-Sharif, who posed as a journalist for the Al Jazeera network,” and had taken steps “to mitigate harm to civilians.”… The military accused Mr. al-Sharif of being “the head of a terrorist cell” that was “responsible for advancing rocket attacks against Israeli civilians” and soldiers… But Al Jazeera and Mr. al-Sharif denied the accusation, with the network saying the allegations were “fabricated.”* |
 | **The Independent** | Anas al-Sharif: Who was the Al Jazeera journalist killed by Israel? | *Since joining the Qatari broadcaster in December 2023, the father of two reported almost daily on the suffering of Palestinians in northern Gaza…. Responding to the allegations, al-Sharif said: “I, Anas Al-Sharif, am a journalist with no political affiliations. My only mission is to report the truth from the ground – as it is, without bias.”* |  
 
+**Interpretation:**  
+Right-wing outlets (Fox, Daily Mail) adopt or launder the Israeli state narrative, foregrounding “terrorist” labels and undermining journalistic legitimacy. The *New York Times* attempts balance, but still leads with Israeli claims before Palestinian denials. Only *The Independent* centers al-Sharif’s humanity, quoting him directly. This progression illustrates how Palestinian deaths are framed as conditional and justifiable, unlike the uniform condemnation granted to Ukrainian journalists.  
+
 ---
 
 ### Differential Coverage of the Wrongful Deportation of Kilmar Abrego García  
@@ -133,5 +136,20 @@ This plot shows the trade-off between sympathetic descriptors (humanization) and
 | **Daily Mail** | Migrant Kilmar Abrego García’s two word insult for Trump as he’s arrested again by ICE and branded a ‘gangbanger’ | *DHS Secretary Kristi Noem slammed 'activist liberal judges' for Abrego Garcia's release from prison… (she) said: 'Activist liberal judges have attempted to obstruct our law enforcement every step of the way in removing the worst of the worst criminal illegal aliens from our country…Today, we reached a new low with this publicity hungry Maryland judge mandating this illegal alien who is a MS-13 gang member, human trafficker, serial domestic abuser, and child predator be allowed free,' she added.* |
 | **New York Times** | Abrego García Detained Again After Government Signaled It Would Re-Deport Him | *Kilmar Armando Abrego Garcia, the immigrant who was wrongfully expelled to El Salvador in March and then brought back to face criminal charges, was detained again on Monday after the administration indicated that it planned to re-deport him to Uganda.* |
 | **The Independent** | Kilmar Abrego García is back in jail and facing deportation. Here’s what to know | *The Maryland construction worker, 30, was detained Monday in Baltimore by U.S. Customs and Immigration Enforcement after leaving a Tennessee jail on Friday. Administration officials have said he's part of the dangerous MS-13 gang, an allegation Abrego Garcia denies.* |  
+
+**Interpretation:**  
+Right-wing outlets (Fox, Daily Mail) stack descriptors—“illegal alien,” “MS-13,” “gangbanger”—to annihilate credibility, turning Abrego García into a symbol of criminal threat. The *New York Times* acknowledges wrongful deportation but frames events procedurally. Only *The Independent* foregrounds his occupation and denial, offering him minimal humanity. This differential coverage shows how Latino migrants must disprove criminality to be seen as legitimate, unlike Ukrainians who are presumed innocent.  
+
+--- 
+### Other CDA Findings  
+
+- **Framing & Headlines:** Right-wing outlets pre-emptively criminalize through headlines/URL slugs (“illegal alien,” “terrorist”), while mainstream outlets rely on state sourcing that subtly reproduces bias.  
+- **Metaphors:** Migrants are constructed through dehumanizing metaphors: *floods, invasions, swarms* — disasters to be managed, not people seeking safety.  
+- **Nominalization:** Layered modifiers (“illegal migrant” → “criminal illegal alien”) transform people into essentialized threats.  
+- **Agency Allocation:** White/European subjects (Ukrainians) act with agency, while brown subjects (Palestinians, Latinos) are overwhelmingly passive or objectified.  
+- **Discourse Boundaries:** Mainstream “neutral” outlets (CNN, Guardian) sit on the same continuum as partisan ones — shifting only in tone, not in ideological outcome.  
+
+**Summary:**  
+CDA reveals how language does more than describe — it sorts humans into hierarchies of worth. Palestinians are framed as perpetual victims, Latinos as criminal problems, and Ukrainians as legitimate victims and actors. These patterns reflect **racial proximity, religion, and geopolitical alignment**, proving that journalistic “objectivity” often reproduces systems of inequality.  
 
 
