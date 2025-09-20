@@ -64,7 +64,8 @@ figures/
   - CDA with focus on metaphor, nominalization, and agency
     
 ---
-## Key Findings 
+## Computational Findings Overview
+
 The analysis reveals systematic differences in how displaced populations are framed:  
 
 - **Palestinians** → framed as humanitarian victims but denied agency  
