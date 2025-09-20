@@ -101,6 +101,8 @@ These collocations show how semantic environments differ:
 
 ### Humanization vs Criminalization  
 
+<img src="figures/criminal_index.png" alt="Humanization vs Criminalization" width="400"/>
+
 ![Humanization vs Criminalization](figures/criminal_index.png)  
 
 This plot shows the trade-off between sympathetic descriptors (humanization) and criminalizing frames across four displaced populations.  
