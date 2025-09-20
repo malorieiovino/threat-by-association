@@ -73,19 +73,11 @@ figures/
   - Transitivity analysis (Halliday's SFG)
   - CDA with focus on metaphor, nominalization, and agency
     
-## How to Run 
-**1. Clone the repo**
-```
-git clone https://github.com/malorieiovino/threat-by-association.git
-cd threat-by-association
-```
-**2. Install dependencies**
-```
-pip install -r requirements.txt
-```
-**3. Run the analysis scripts:** 
-```
-python scripts/data_collection.py
-python scripts/cnn_corpus.py
-python scripts/evaluation.py
-```
+---
+
+| Group       |   N |   Humanization (%) |   Criminalization (%) |   Victimization (%) |   Agency (%) |
+|:------------|----:|-------------------:|----------------------:|--------------------:|-------------:|
+| Palestinian | 484 |               77.0 |                  15.3 |                63.8 |         13.8 |
+| Ukrainian   | 501 |               60.1 |                  13.4 |                41.8 |         26.9 |
+| Mexican     | 321 |               15.2 |                  14.3 |                35.1 |         24.6 |
+| Venezuelan  | 133 |               18.4 |                  14.5 |                25.6 |         28.2 |
