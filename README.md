@@ -112,4 +112,26 @@ This plot shows the trade-off between sympathetic descriptors (humanization) and
 
 --- 
 
-## CDA + Case Studies 
+## Critical Discourse Analysis & Case Studies  
+
+### Differential Coverage of the Murder of Anas al-Sharif  
+
+| Outlet       | Title                                               | Quote |
+|--------------|-----------------------------------------------------|-------|
+| **Fox News** | Israel says Al Jazeera journalist killed in airstrike was head of Hamas ‘terrorist cell’ | *An Al Jazeera journalist who was killed by an Israeli airstrike in the Gaza Strip was the leader of a Hamas "terrorist cell," the Israel Defense Forces announced…The IDF struck the terrorist Anas Al-Sharif, who posed as a journalist for the Al Jazeera network," the Israeli military said in a statement. Anas Al-Sharif served as the head of a terrorist cell in the Hamas terrorist organization and was responsible for advancing rocket attacks against Israeli civilians and IDF troops.* |
+| **Daily Mail** | Israel kills Al Jazeera journalist it says was Hamas leader | *Israel's military said it targeted and killed a Hamas cell leader posing as an Al Jazeera journalist in an airstrike on Gaza City… “Al Sharif was the head of a Hamas cell and was responsible for advancing rocket attacks against Israeli civilians and IDF (Israeli) troops," the Israeli military said in a statement, citing intelligence and documents found in Gaza as evidence.* |
+| **New York Times** | Israel Strike Kills Al Jazeera Journalists, Network Says | *The Israeli military…said that it had targeted “the terrorist Anas al-Sharif, who posed as a journalist for the Al Jazeera network,” and had taken steps “to mitigate harm to civilians.”… The military accused Mr. al-Sharif of being “the head of a terrorist cell” that was “responsible for advancing rocket attacks against Israeli civilians” and soldiers… But Al Jazeera and Mr. al-Sharif denied the accusation, with the network saying the allegations were “fabricated.”* |
+| **The Independent** | Anas al-Sharif: Who was the Al Jazeera journalist killed by Israel? | *Since joining the Qatari broadcaster in December 2023, the father of two reported almost daily on the suffering of Palestinians in northern Gaza…. Responding to the allegations, al-Sharif said: “I, Anas Al-Sharif, am a journalist with no political affiliations. My only mission is to report the truth from the ground – as it is, without bias.”* |  
+
+---
+
+### Differential Coverage of the Wrongful Deportation of Kilmar Abrego García  
+
+| Outlet       | Title                                               | Quote |
+|--------------|-----------------------------------------------------|-------|
+| **Fox News** | Democrats outraged that alleged gang member could be sent to Uganda<br>‘Maryland man’ Kilmar Abrego Garcia exposed in police records as 'violent' repeat wife beater | *Democrats are expressing outrage that alleged gang member and illegal immigrant Kilmar Abrego García may be deported to Uganda… (DHS) posted on its official X account, "Kilmar Abrego Garcia is not and will never be a Maryland Man—he is a criminal illegal alien from El Salvador and public safety threat." … DHS called it "insane" that "sanctuary politicians chose to glorify and stand with an MS-13 gang member over the safety of American citizens."* |
+| **Daily Mail** | Migrant Kilmar Abrego García’s two word insult for Trump as he’s arrested again by ICE and branded a ‘gangbanger’ | *DHS Secretary Kristi Noem slammed 'activist liberal judges' for Abrego Garcia's release from prison… (she) said: 'Activist liberal judges have attempted to obstruct our law enforcement every step of the way in removing the worst of the worst criminal illegal aliens from our country…Today, we reached a new low with this publicity hungry Maryland judge mandating this illegal alien who is a MS-13 gang member, human trafficker, serial domestic abuser, and child predator be allowed free,' she added.* |
+| **New York Times** | Abrego García Detained Again After Government Signaled It Would Re-Deport Him | *Kilmar Armando Abrego Garcia, the immigrant who was wrongfully expelled to El Salvador in March and then brought back to face criminal charges, was detained again on Monday after the administration indicated that it planned to re-deport him to Uganda.* |
+| **The Independent** | Kilmar Abrego García is back in jail and facing deportation. Here’s what to know | *The Maryland construction worker, 30, was detained Monday in Baltimore by U.S. Customs and Immigration Enforcement after leaving a Tennessee jail on Friday. Administration officials have said he's part of the dangerous MS-13 gang, an allegation Abrego Garcia denies.* |  
+
+
