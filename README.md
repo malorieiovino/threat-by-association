@@ -72,7 +72,7 @@ The analysis reveals systematic differences in how displaced populations are fra
 - **Mexicans/Venezuelans** → framed as administrative or criminal problems  
 
 ### Status Term Distribution  
-![Status Term Distribution](figures/status_terms.png)  
+![Status Term Distribution](figures/status_distribution.png)  
 
 This graph shows the percentage of status terms (refugee, migrant, illegal, displaced) used across groups.  
 Refugee/displaced terms invoke protection under international law, while “migrant/illegal” imply choice or criminality.  
@@ -90,7 +90,14 @@ These collocations show how semantic environments differ:
 - Palestinians → violence/conflict terms  
 - Ukrainians → state/strategy terms  
 - Mexicans → border/enforcement terms  
-- Venezuelans → governance terms  
+- Venezuelans → governance terms
+
+### Humanization vs Criminalization  
+
+![Humanization vs Criminalization](figures/criminal_index.png)  
+
+This plot shows the trade-off between sympathetic descriptors (humanization) and criminalizing frames across four displaced populations.  
+
 
 | Group       |   N |   Humanization (%) |   Criminalization (%) |   Victimization (%) |   Agency (%) |
 |:------------|----:|-------------------:|----------------------:|--------------------:|-------------:|
@@ -98,3 +105,11 @@ These collocations show how semantic environments differ:
 | Ukrainian   | 501 |               60.1 |                  13.4 |                41.8 |         26.9 |
 | Mexican     | 321 |               15.2 |                  14.3 |                35.1 |         24.6 |
 | Venezuelan  | 133 |               18.4 |                  14.5 |                25.6 |         28.2 |
+
+- **Palestinians** → highest humanitarian framing (77%) but lowest agency (13.8%) → grievable yet denied action.  
+- **Ukrainians** → balanced as both vulnerable and rational actors, with higher agency (26.9%).  
+- **Mexicans/Venezuelans** → overwhelmingly constructed as administrative or criminal problems, with very low humanization (15–18%).
+
+--- 
+
+## CDA + Case Studies 
