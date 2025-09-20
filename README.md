@@ -30,16 +30,6 @@ How do Western media outlets use linguistic choices to construc displaced people
 - **Critical Discourse Analysis (CDA):**
   - Headlines + URL framing
   - Case studies covering *Anas al-Sharif* and *Kilmar Abrego Garcia*
-- **Findings:**
-  - Palestinians are framed as passive victims—grievable but denied agency.
-
-  - Ukrainians are portrayed as complex humans, balancing victimhood with rational action.
-
-  - Latin Americans are discursively reduced to administrative problems or criminalized as threats.
-
-These framings map onto proximity to whiteness, religion, and geopolitical alignment with Western interests. 
-
-This work highlights how journalism functions as a form of linguistic border control, actively shaping public perception, legitimizing policy, and determining whose lives are rendered visible and grievable.  
 
 ---
 
@@ -74,6 +64,33 @@ figures/
   - CDA with focus on metaphor, nominalization, and agency
     
 ---
+## Key Findings 
+The analysis reveals systematic differences in how displaced populations are framed:  
+
+- **Palestinians** → framed as humanitarian victims but denied agency  
+- **Ukrainians** → framed as complex humans with both vulnerability and rational action  
+- **Mexicans/Venezuelans** → framed as administrative or criminal problems  
+
+### Status Term Distribution  
+![Status Term Distribution](figures/status_terms.png)  
+
+This graph shows the percentage of status terms (refugee, migrant, illegal, displaced) used across groups.  
+Refugee/displaced terms invoke protection under international law, while “migrant/illegal” imply choice or criminality.  
+
+### Collocation Patterns (Table 1)  
+
+| Group       | Top 5 words before       | Top 5 words after       |
+|-------------|--------------------------|-------------------------|
+| Palestinian | Israeli, killed, gaza, hamas, humanitarian | israeli, gaza, strip, killed, ministry |
+| Ukrainian   | russia, support, invasion, military, help   | president, russia, forces, military, defense |
+| Mexican     | border, migrants, tariffs, asylum, crossing | border, president, government, migrants, officials |
+| Venezuelan  | temporary, border, migrants, haitians, held | migrants, government, president, gang, deported |
+
+These collocations show how semantic environments differ:  
+- Palestinians → violence/conflict terms  
+- Ukrainians → state/strategy terms  
+- Mexicans → border/enforcement terms  
+- Venezuelans → governance terms  
 
 | Group       |   N |   Humanization (%) |   Criminalization (%) |   Victimization (%) |   Agency (%) |
 |:------------|----:|-------------------:|----------------------:|--------------------:|-------------:|
