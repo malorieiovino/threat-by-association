@@ -160,11 +160,11 @@ Right-wing outlets (Fox, Daily Mail) stack descriptors—“illegal alien,” �
 CDA reveals how language does more than describe — it sorts humans into hierarchies of worth. Palestinians are framed as perpetual victims, Latinos as criminal problems, and Ukrainians as legitimate victims and actors. These patterns reflect **racial proximity, religion, and geopolitical alignment**, proving that journalistic “objectivity” often reproduces systems of inequality.  
 
 --- 
+## Conclusion  
 
-This project demonstrates how computational and critical approaches can be combined to expose systematic inequalities in media discourse.  
-By analyzing over 1,700 articles (2021–2025), the study shows how displaced populations are discursively sorted into hierarchies of deservingness based on race, religion, and geopolitical alignment.  
-The findings highlight how even neutral-sounding journalistic language actively constructs borders of inclusion and exclusion.  
+*Threat by Association* is a project that demonstrates the value of combining computational linguistics with sociolinguistic and critical discourse approaches. While the current findings highlight systematic disparities in how displaced populations are represented, this is also a project that would benefit from further refinement and expansion with more time and resources.  
 
+Future iterations could incorporate multilingual corpora, visual framing analysis, or audience reception studies to deepen the findings. Nonetheless, this work has been a rewarding opportunity to bridge computational methods with sociolinguistic theory, showing how the two can be brought together to interrogate questions of fairness, bias, and human recognition in media discourse.  
 --- 
 
 ## Acknowledgments  
