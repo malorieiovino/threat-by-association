@@ -79,7 +79,7 @@ The analysis reveals systematic differences in how displaced populations are fra
 - **Mexicans/Venezuelans** → framed as administrative or criminal problems  
 
 ### Status Term Distribution  
-![Status Term Distribution](figures/status_distribution.png)  
+<img src="figures/status_distribution.png" alt="Status Term Distribution" width="400"/>
 
 This graph shows the percentage of status terms (refugee, migrant, illegal, displaced) used across groups.  
 Refugee/displaced terms invoke protection under international law, while “migrant/illegal” imply choice or criminality.  
@@ -102,8 +102,6 @@ These collocations show how semantic environments differ:
 ### Humanization vs Criminalization  
 
 <img src="figures/criminal_index.png" alt="Humanization vs Criminalization" width="400"/>
-
-![Humanization vs Criminalization](figures/criminal_index.png)  
 
 This plot shows the trade-off between sympathetic descriptors (humanization) and criminalizing frames across four displaced populations.  
 
